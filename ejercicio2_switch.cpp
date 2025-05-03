@@ -31,6 +31,7 @@ int main(){
         default:
         cout << "imposible" ;
         break;
+        
     
     
     }
